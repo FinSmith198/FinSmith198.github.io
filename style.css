@@ -8,6 +8,19 @@ body {
     font-family: Arial, Helvetica, sans-serif;
 }
 
+.container {
+    display: flex;
+    justify-content: center;
+}
+.center {
+    width: 750px;
+    padding: 10px;
+    color: #000;
+    font-weight: bold;
+    font-family: Tahoma;
+}
+
+
 /* Style the top navigation bar */
 .topnav {
     overflow: hidden;
